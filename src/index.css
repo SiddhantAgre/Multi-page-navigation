@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+body{
+  background-color: black;
+  color: white;
+}
+
+h1{
+  font-size: 45px;
+  top: 30%;
+  left: 45%;
+  position: absolute;
+}
